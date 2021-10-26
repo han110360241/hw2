@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(498,5): warning MSB8004: Intermediate 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Intermediate 目錄。
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(499,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  main.c
+C:\c language\2\110360241_謝宗翰\4.28\source\main.c(25,47): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\c language\2\110360241_謝宗翰\4.28\source\main.c(29,23): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\c language\2\110360241_謝宗翰\4.28\source\main.c(37,27): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\c language\2\110360241_謝宗翰\4.28\source\main.c(45,19): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\c language\2\110360241_謝宗翰\4.28\source\main.c(6,17): warning C4101: 'ms': 未參考的區域變數
+C:\c language\2\110360241_謝宗翰\4.28\source\main.c(6,15): warning C4101: 'd': 未參考的區域變數
+  hw9.vcxproj -> C:\c language\2\110360241_謝宗翰\4.28\temp\debug\hw9.exe
